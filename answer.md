@@ -74,7 +74,7 @@ function getLowStock(products){
 }
 ```
 下方為圖片url連結
-![圖片1a](./05.jpg)
+![圖片1a](05.jpg)
 
 1. c.
 
@@ -99,7 +99,7 @@ function updateStock(products, updates){
 }
 ```
 下方為圖片url連結
-![圖片1b](./01.JPG) 
+![圖片1b](01.JPG) 
 <!--  請撰寫時，第一句話再寫一次  -->
 
 2. a.
@@ -120,7 +120,7 @@ server.listen('8888',funtion(){
 })
 ```
 下方為圖片url連結
-![圖片2a](./02.JPG) 
+![圖片2a](02.JPG) 
 
 <!--  請撰寫時，第一句話再寫一次  -->
 
@@ -163,14 +163,14 @@ if(req.url.endsWith('.css')) || req.url.endsWith('.js') || req.url.endWith('.png
 
 ```
 下方為圖片url連結
-![圖片2b](./03.JPG) 
+![圖片2b](03.JPG) 
 <!--  請撰寫時，第一句話再寫一次  -->
 
 2. c.
 
 Ans:
 下方為圖片url連結
-![圖片2c](./04.JPG) 
+![圖片2c](04.JPG) 
 
 <!--  請撰寫時，第一句話和最後一句再寫一次  -->
 
